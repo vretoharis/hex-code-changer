@@ -1,2 +1,3 @@
-# hex-code-changer
- Small project to practice dynamic hex-code changing
+# hex-color-project
+A project similar to the background color change project. This time it includes a random hex color output along with the backgrounds.
+# color_changer
